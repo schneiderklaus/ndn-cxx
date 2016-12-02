@@ -52,4 +52,6 @@ Tag::~Tag()
 
 } // namespace ndn
 
+#include "ndn-congestion-tag.hpp"
+
 #endif // NDN_TAG_HPP
