@@ -18,7 +18,7 @@
  * Author: Klaus Schneider <klaus@cs.arizona.edu>
  */
 
-#ifndef NDN_NEW_TAG_HPP
+#ifndef NDN_CONGESTION_TAG_HPP
 #define NDN_CONGESTION_TAG_HPP
 
 namespace ndn {
